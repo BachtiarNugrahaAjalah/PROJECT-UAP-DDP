@@ -26,21 +26,22 @@ void dialog001() {
 
 void dialog002() {
   chat(20, 8, "Suara gemuruh kegaduhan terdengar, diikuti hentakan langkah kaki yang terburu-buru.", 42);
-  napms(1000);
+  napms(650);
   chat(22, 8, "Damian baru saja tiba di depan kandang sapi milik pamannya dengan napas tersenggal-senggal.", 42);
-  napms(1000);
+  napms(650);
   clear();
   Damian();
   mvprintw(16, 8, "Damian");
   chat(20, 8, "Huh, lagi? Kemarin domba milik Ny. Grace yang hilang.", 42);
-  napms(1000);
+  napms(650);
   chat(22, 8, "Sekarang sapi milikmu juga?", 42);
-  napms(1000);
+  napms(650);
   clearleft();
+  Damian();
   mvprintw(16, 8, "Damian");
   chat(20, 8, "Siapa sebenarnya gerangan orang gila yang mencuri", 42);
   chat(21, 8, "harta di tanah gersang kita?", 42);
-  napms(1000);
+  napms(650);
   clear();
 }
 
@@ -48,9 +49,9 @@ void dialog003() {
   PamanSam();
   mvprintw(16, 8, "Paman Sam");
   chat(20, 8, "Siapa pun orangnya, kuharap dia dikirim ke dalam kubur!", 42);
-  napms(1000);
+  napms(650);
   chat(22, 8, "Maukah kau mencarinya untukku, Damian?", 42);
-  napms(1000);
+  napms(650);
   clear();
 }
 
@@ -58,20 +59,22 @@ void dialog004() {
   Damian();
   mvprintw(16, 8, "Damian");
   chat(20, 8, "Tentu saja, Paman Sam.", 42);
-  napms(1000);
+  napms(650);
   chat(22, 8, "Biarkan aku mencari pencuri licik itu untuk aku kirim", 42);
   chat(23, 8, "ke dalam kubur!", 42);
-  napms(1000);
+  napms(650);
   clearleft();
+  Damian();
   mvprintw(16, 8, "Damian");
   chat(20, 8, "Tapi ini sedikit aneh.", 42);
-  napms(1000);
+  napms(650);
   chat(22, 8, "Bagaimana pencuri itu bisa mencuri tiga sapi sekaligus?", 42);
-  napms(1000);
+  napms(650);
   clearleft();
+  Damian();
   mvprintw(16, 8, "Damian");
   chat(20, 8, "Apa pencuri itu tidak sendirian?", 42);
-  napms(1000);
+  napms(650);
   clear();
 }
 
@@ -79,17 +82,18 @@ void dialog005() {
   PamanSam();
   mvprintw(16, 8, "Paman Sam");
   chat(20, 8, "Bisa jadi, Damian.", 42);
-  napms(1000);
+  napms(650);
   chat(22, 8, "Kudengar Tn. John juga kehilangan lima ekor ayamnya", 42);
   chat(23, 8, "semalam, dan ada yang membuatku heran.", 42);
-  napms(1000);
+  napms(650);
   clearleft();
+  PamanSam();
   mvprintw(16, 8, "Paman Sam");
   chat(20, 8, "Tidak ada seorang pun yang mendengar suara ayam malam", 42);
   chat(21, 8, "itu, atau juga jejak kaki di sekitar kandangnya.", 42);
-  napms(1000);
+  napms(650);
   chat(23, 8, "Nah, sekarang beritahu aku bagaimana pencuri--", 42);
-  napms(1000);
+  napms(650);
   clear();
 }
 
@@ -97,10 +101,10 @@ void dialog006() {
   PamanSam();
   mvprintw(16, 8, "Paman Sam");
   chat(20, 8, "EH LIHAT!", 90);
-  napms(1200);
+  napms(1000);
   chat(22, 8, "SIAPA ORANG-ORANGAN SAWAH YANG MAU MENYISIR", 90);
   chat(23, 8, "GANDUM MILIK TN. PETER?!", 90);
-  napms(1200);
+  napms(1000);
   clear();
 }
 
@@ -108,9 +112,9 @@ void dialog007() {
   Damian();
   mvprintw(16, 14, "Damian");
   chat(20, 14, "Itu bukan orang, tetapi sesuatu itu MENYERUPAI ORANG!", 90);
-  napms(1200);
+  napms(1000);
   chat(22, 14, "Ayo ambil sabit dan kapak besimu untuk melawan mereka!", 90);
-  napms(1200);
+  napms(1000);
   clear();
 }
 

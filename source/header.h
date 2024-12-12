@@ -158,9 +158,9 @@ void singUp (){
 }
 
 void welcomeGame(){
-    mvprintw(10,10,"SELAMAT DATANG DI GAME BERBURU RAJA IBLIS");
-    mvprintw(19,10,"tekan m untuk mulai permainan");
-    mvprintw(20,10,"tekan b untuk kembali ke menu utama");
+    mvprintw(10,10,"SELAMAT DATANG DI GAME MAGE OF DARKNESS");
+    mvprintw(16,10,"tekan m untuk mulai permainan");
+    mvprintw(17,10,"tekan b untuk kembali ke menu utama");
 }
 
 void opsiPlay(){
