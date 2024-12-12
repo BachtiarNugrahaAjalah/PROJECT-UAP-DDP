@@ -169,7 +169,7 @@ void opsiPlay(){
         clearScreen();
         loadingAuto(10,10);
         printw("game akan dimulai");
-        //play game
+        getch();
     }
     if(ch == 'b' || ch == 'B'){
         clearScreen();

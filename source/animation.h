@@ -242,6 +242,111 @@ void Emma() {
 
 }
 
+void Rossy() {
+  
+mvprintw(1, 90, "	            .c1vClSSC55llY7;;:,..      ,7Y1l2SCCC5Sll55l51S515T77;7C@.          ");
+mvprintw(2, 90, "           .;. ;;;::.     ,77lOZOUOGUY;7      .::::::::;::::::,:,  vhM;       ,;	");
+mvprintw(3, 90, "          :v .::,    ,YZd88#9UUOUFUXG9bMM@0U7    ,::;:::::::::;;;:.:ZM@D.       	");
+mvprintw(4, 90, "          2; ,   :5hMM02v7;7777YYv7777777TSGb@9l:  ,:;;;;;:;;;;;;;, 70D@@l.7l5OS	");
+mvprintw(5, 90, "          @Y  .1@@917;7sZb@@@@@@@@@@@M#ClYY7vc5G@07   ;;;;;;;;;;;;:.,1D0d@S     	");
+mvprintw(6, 90, "          l@lO@@v;;cX@@@@8E;;7;  ,shGbM@@@@Pscvsv2hMl   ,;;;;;;;;;;: 7EDE9@D    	");
+mvprintw(7, 90, "           vb@M.;U@@@E7          .      Y;l@@@hvYTsv0@F   .:;;;;;;;:.:EDEGEM@P7T	");
+mvprintw(8, 90, "            h@0@@@D  : ;:  .7. 7Sv;7  . :U   Y@@@C7T7F@@#;   :;;;;;;.,U#EZXZG@X.	");
+mvprintw(9, 90, "            @@@7 2.. Y. h. 7U.lY  ;1@7,  ;@    .M@@57:0b@@@l  .:;;;;,.O#0ZGXGO@;	");
+mvprintw(10, 90, "           ;;   Tl;X Sd sY;#;s. 2Y .GY.7;,9h  .   d@8;Gb@bh@@7  .;;;..2bEGUGXEC@	");
+mvprintw(11, 90, "           U   :@ X  M0PsX#XE:78@@ ;D@0G1;:@; :7   :@@M@@  ;@@h;  ,. ;GD9XGZZXUS	");
+mvprintw(12, 90, "          77   8Y70  @0@@@@@@@@@GE.Y@F,E@@d@@  F     @@@M ;s @@@U;  :S9hXGZGZGX5	");
+mvprintw(13, 90, "          U   .@ZOh 7@ .7D7: ;7   Dd@,     ;MO 7C     d@; ZPU O@MhOlCGhPZXEXGXZS	");
+mvprintw(14, 90, "         ;7   v@Y :,U@           ;@@b        @  b   7  @ ;c #@.s@090ZZGPXZXEZZZC	");
+mvprintw(15, 90, "         s7   bh   2O@           Y@@         Cb 8;  5; l h. ;s@ 2@ZGPXGXZZEXGXZS	");
+mvprintw(16, 90, "         7.   @,   :@@           @P           @ FC  25 @  #UY@@ G@OGZGXEZZXGXGUC	");
+mvprintw(17, 90, "         7    @,    ;@7         F;  :,;;,.    dclF  EU  @, h7h5 @ZOXZZGXZXGXGXG5	");
+mvprintw(18, 90, "         l ;  @. :ll 7@;       v7;77;77sFEs7  .@1U  @F  l@7 Y# U@ZSZXEXZZGXEXEUO	");
+mvprintw(19, 90, "         v Z  @,      ;X      .v,              @@S  @S .Gd@E.: @@MlZGUZXGXGZPhZ#	");
+mvprintw(20, 90, "         ; 8. @:                               5@1 7@5 1hh;@@,0@2@5UXGXGZGGb#5X,	");
+mvprintw(21, 90, "         ; 7Z GXTs72h77         7c1@@@@@DD@@2l,C@v 2@7:9bF; @@@@E@U5EGEP#MhCFs; 	");
+mvprintw(22, 90, "         Y, @77h.@YM@@@@,        70@@@@@; ,l@U:,@57b87CE@7,@5  S@@DUb@@8Uss2T   	");
+mvprintw(23, 90, "         .; 9@s@  .;7@@ ,.         7d7S@  .57   @CX@5lEMGS @.   @@@SC7;;5Ss     	");
+mvprintw(24, 90, "          ;:S@b@Z  ;Y7  7E          ;.:  :;    ;@9#dlUd@7 7@    @#@ :7TY:       	");
+mvprintw(25, 90, "          :7GC 1@C      77                     5@d;GZ8@,l:C@E77l@Ds:;           	");
+mvprintw(26, 90, "           5@1  @@X.    7                      @lYUM@8MY;U X17v7,:              	");
+mvprintw(27, 90, "           .@X  @ ;;  .7                         @@@h  5c c@    ;.              	");
+mvprintw(28, 90, "            v@  @Z    9T                        v@@;   .;C9@,   7;              	");
+mvprintw(29, 90, "             O; F@    .@c 7E7                  .@@  vEU5O2T7.   T:              	");
+mvprintw(30, 90, "              , sPY     2; ,.                  S@D ;P.@Yc: ,,   7:              	");
+mvprintw(31, 90, "                U:@                         .  @@ .@ 5@:   ;;   Y.              	");
+mvprintw(32, 90, "                7.hU     .s,.;;,...:ld.    .  U@ ;@  @7;7; ,,   c.              	");
+mvprintw(33, 90, "                 2..P,    T777772Ec7;        .Z.TG: :X  ;11,.   l               	");
+mvprintw(34, 90, "                 U,  O;       .              7CE7.  :P    2P    5                 ");
+mvprintw(35, 90, "                      YC,    .Y7;          78P;     .d     M    s               	");
+mvprintw(36, 90, "                       :Gs              ,OdG;    .  .@     ;;  .7               	");
+mvprintw(37, 90, "                         YP;         .l#dl,     ...  9.        7,               	");
+mvprintw(38, 90, "                           5XcY7:;7l9#S; ... . ...   7;.;      77.              	");
+mvprintw(39, 90, "                             ,;U@58C; ,:;:,...... .  T@  s;   .72               	");
+mvprintw(40, 90, "                               ,C ;v5S7;;;;;::.  ,1   @  Z@@;7 Y7               	");
+mvprintw(41, 90, "                             Y7 X    ;77;;7;;.   .1   P7; ;@h7 ;7               	");
+mvprintw(42, 90, "                           UM7  M,               D7   O7.  CT@:;,               	");
+mvprintw(43, 90, "                         F@@  2@@l              :@   D1    5 0@;.:,             	");
+mvprintw(44, 90, "                     . ;@@l  1@@@9              @;  G@     C M@U,7;7;:.         	");
+mvprintw(45, 90, "                  ,;; 7@9;  7EdX#:             Cc :@@s    7S @@, ;vY7;77;,.     	");
+mvprintw(46, 90, "               :;77: Y@b;   O#clY             7d v@@@     lF @@. ..:;7;;;777:.  	");
+mvprintw(47, 90, "           ,;7Y7;,  l@9;    F@sY             ;@;S@@7 ;.   @: @@         .:;7Y77,	");
+mvprintw(48, 90, "         .,;:.     l@l      7#@8; .  . . .71UDF#M: ,c:    @  @@              .;l	");
+
+}
+
+void TuanKai() {
+
+mvprintw(1, 90, "	                          7YFT:.7FE7;      ;S;. cUU7.                         ");
+mvprintw(2, 90, "                      ,  .                         ,77:                         ");
+mvprintw(3, 90, "                   ;5Y:          ..              .    7Cc                       ");
+mvprintw(4, 90, "                 ;UY    .,         .::             ;7.  ;Y;                     ");
+mvprintw(5, 90, "                sS.    :;             ;;            .7l   ;v:                   ");
+mvprintw(6, 90, "               G7     7s   ;           ;5;     .;,    :bc   77                  ");
+mvprintw(7, 90, "              O:     :E    F,           .hX     .5G.    Eh    7;:      .        ");
+mvprintw(8, 90, "             9,      @     P.   77        S@      Y@T:   v@7    ::77;lS;        ");
+mvprintw(9, 90, "            P:      CP     h7    Od        l@      :@Y:;. ;@Y:v;. :7ls.         ");
+mvprintw(10, 90, "           G7       @:     bE     l@.       1@      .@F:,, .#Y;79@;;            ");
+mvprintw(11, 90, "          1S    ,  T@      7@  Y.  7@7       X@      :@;Y;   @:  F              ");
+mvprintw(12, 90, "         7E    ;   XM      ;@5  M.  ,@2       #@      Th c5  ,@. ;X             ");
+mvprintw(13, 90, "        :9 .  ;Y  ;@;      @55S ;@,   @h  .   .@M.     bZ.7@Y :@  @             ");
+mvprintw(14, 90, "       .G ;7 .M  ;M01  :   h@ OG ;@:   @0 ..   7@c;    ,@@1E@h ;h 51            ");
+mvprintw(15, 90, "      ,l 7@  Fl  @7 #  X   7@  :2 ,@l   hM...   5@ v.   OC   C@ 77 #            ");
+mvprintw(16, 90, "     ;s7S9U  @  s@  P. @l   @X ;@@ ,@@Y  8dvY   :M7 T;  :@:.  1@ l;M            ");
+mvprintw(17, 90, "   :7;;; ., .P  M.  XY :@.  T@@@@@@7ll.Zl 7 PX  .,@Y Y:  G8 ,  :@,C@            ");
+mvprintw(18, 90, "         17 7P  @E@@@@  D@   @@@7   .C1 79F: D@   O@2 7, ;@.    .P7@            ");
+mvprintw(19, 90, "         57 50 .@@@b@@1 7@S  ;@   ,,;Yb@F2E@; @@  ;7;M.;  X@  ,. 7G5            ");
+mvprintw(20, 90, "         5; sE ;@d1CZ@@, @@O  EdYSls;      YO ST@, F 7@.. ;Ml. ,. 10            ");
+mvprintw(21, 90, "         7l 7@ 7@ZGG0h@@.dM5P  @v.;lEZ@@d;    87 @.7  l@   G7M,., SD:           ");
+mvprintw(22, 90, "         ,#  @ ;@80Dh#8@@@. 7@,;7 dM@@@778#@7 dZ ;@S. ,SP  M.57,. 9 7           ");
+mvprintw(23, 90, "          b  cC @@#Db#@b#@s  ,#1G.  77U. .lP7 P1  s@s  ;@: 7l@:, s5             ");
+mvprintw(24, 90, "          S.  1.#@M8b@@X@@     78@       .    ;Z   c@  ;@@ .@v :.8              ");
+mvprintw(25, 90, "          77  YU7@@@@@9@h7       l@c  .       ,@    5  7@sc 8 ;.lC              ");
+mvprintw(26, 90, "          .b  l8l@@@@M@77,         7,:.       ,@   ,;  lM l E7:,h               ");
+mvprintw(27, 90, "          ;@, CZO@@@@2  l                     ,@   .s  1#;@;F777X               ");
+mvprintw(28, 90, "          v,c T#Ov     @  .                   .@   .1  1@S72F;Yh7               ");
+mvprintw(29, 90, "          2 1::MFM     :U5;;9UY               .@   .C .lM;;s@;:MC               ");
+mvprintw(30, 90, "         T. 9s,#1@;      s;.;77      :7,.     .@   .1 ,ZD7Y78M;7#               ");
+mvprintw(31, 90, "        .;,E. 751F@   7s         :;.; @C;.    ,@   :Y ,8E7c7YG7Y15              ");
+mvprintw(32, 90, "        ;;5   1lCTU@ :hl 7   .:: ;,    vldv   ,E   s; 7@#vS17F  YOX7            ");
+mvprintw(33, 90, "       :7;    :.Pvl@h 77   ;77777;;   : ;U;   7X.  O7 Us;E98llC   ;1UT;         ");
+mvprintw(34, 90, "      ;;      7:YYcS P:.   ,,, ..,:  ;. lv    0h.  @; M.:@XsC@SE;    ..         ");
+mvprintw(35, 90, "      .       ;:;;s5 5@  .   :Ol.   ,. Cd,    #D  7@ ;@b5 7@D@:77CY             ");
+mvprintw(36, 90, "               S;.vX57s0               7,    ;@C  E5 M; ,U@0v@0@Z:7T            ");
+mvprintw(37, 90, "               1d 2@. Y@;                  ;PM@. :@ ;c 9@@Y:F@20@@Y5            ");
+mvprintw(38, 90, "                @ Xv 5@@h;     . .  ; . ;0@@5#X  Th @@@b;;GS5M2M8@XY1           ");
+mvprintw(39, 90, "               v@,F:7@@,:@@1cY7FdU5G@@@@@@S, @;  877h7779@@;Eddll@@.@7          ");
+mvprintw(40, 90, "              O:P5;Y@@7 @@@@@@;G95Y@07;     sG  7@,7;0@@@@@7DbD .Z@7 @c;:,.     ");
+mvprintw(41, 90, "        ;;;YS@7 @@7;G@1 @@MM@O  7; @7  cE@@@@  ;@s0@@@@#88bl@#5;77@@  @DEGdTv;  ");
+mvprintw(42, 90, "       7P7:7@@ :M@D  @@;.@MM@@   .,@7  @@S;Z, ;@@h0@M8#b#M0@bD;vT;C@@  @@M@@75Z ");
+mvprintw(43, 90, "      ;@.Y;P@l 5@@lM :@@ O@M@@F    D  s@@ G2 l@@EUM@b#8#bD@@b77lY;E8@MsdhP0b@.c#");
+mvprintw(44, 90, "  ;l7U@7;77@@7 #@:7@U Y@9.@@#@@   7@  @@X G 0@MZZ@M8#88@@@@M7;lT;S@hEdb0GPG9@@ ;");
+mvprintw(45, 90, " .E.;sS;5;O@@; @@ 7F7O P@:0@#@@   SC ;@@:7U@@DO0@M88@@@9Y@@Y;c7:5@#9d00PPG9Eh@# ");
+mvprintw(46, 90, " @@G;sv1l;F@@Y;@@  S@@7 @P7@@@@   @; h@5 @@@UXM@@@@@@D. b@7:7;7E@@@MEXZ9PPGPE0@@");
+mvprintw(47, 90, "1,F@l:GSv;U@@UF@@   7@@ 5@b9; ;Xvvs #@P #@G28@@@@@D7   @@;.;Y9@@@PY;;sG90E9EPP0P");
+mvprintw(48, 90, "   @@;:M7,l@GPU@@ ,    @F;  7T  ;Ol7@@1M@b0dDEY,     c@8..cM@@h5;;;7l9h9ZEZPZPGZ");
+}
+
 //frame intro
 
 void frame01() {

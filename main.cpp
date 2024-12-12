@@ -1,3 +1,5 @@
+#include "source/header.h"
+
 int main() {
   
   playmusic("intro.wav", SND_ASYNC);
@@ -12,8 +14,8 @@ int main() {
 
   stopmusic();
 
-  // login
-  
+    opsiLogin();
+
   playmusic("peaceful.wav");
 
   dialog001();
