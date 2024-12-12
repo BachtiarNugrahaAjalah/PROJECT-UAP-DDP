@@ -2,7 +2,7 @@
 
 int main() {
   
-  playmusic("intro.wav", SND_ASYNC);
+  playmusic("music/intro.wav", SND_ASYNC);
 
   initscr();
   noecho();
@@ -11,16 +11,16 @@ int main() {
   introframe();
 
   napms(2000);
-
   stopmusic();
 
     opsiLogin();
 
-  playmusic("peaceful.wav");
-
+    playmusic("music/chapter.wav", SND_ASYNC);
   dialog001();
   refresh();
+  stopmusic();
 
+    playmusic("music/peaceful.wav");
   Damian();
   dialog002();
   refresh();
@@ -39,7 +39,7 @@ int main() {
   
   stopmusic();
   
-  playmusic("danger.wav");
+  playmusic("music/danger.wav");
 
   dialog006();
   refresh();
@@ -56,14 +56,14 @@ int main() {
   
   napms(2000);
   
-  playmusic("battle.wav");
+  playmusic("music/battle.wav");
   
   battlesystem();
   checkbattle();
 
   if (specialtracker2==1) {
   stopmusic();
-  playmusic("danger.wav");
+  playmusic("music/danger.wav");
   }
   else {
   	stopmusic();
@@ -72,7 +72,7 @@ int main() {
   
   napms(2000);
   
-  playmusic("great.wav");
+  playmusic("music/great.wav");
   
   dialog008();
   refresh();
@@ -82,7 +82,7 @@ int main() {
   dialog009();
   refresh();
   
-  playmusic("unpleasant.wav");
+  playmusic("music/unpleasant.wav");
   
   dialog010();
   refresh();
@@ -94,7 +94,7 @@ int main() {
 
   napms(2000);
   
-  playmusic("chapter.wav", SND_ASYNC);
+  playmusic("music/chapter.wav", SND_ASYNC);
   
   dialog011();
   refresh();
@@ -106,7 +106,7 @@ int main() {
 
   napms(2000);
   
-  playmusic("journey.wav");
+  playmusic("music/journey.wav");
   
   dialog012();
   refresh();
@@ -115,7 +115,7 @@ int main() {
   
   napms(2000);
   
-  playmusic("sorrow.wav");
+  playmusic("music/sorrow.wav");
   
   dialog013();
   refresh();

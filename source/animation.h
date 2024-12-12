@@ -243,7 +243,7 @@ void Emma() {
 }
 
 void Rossy() {
-  
+
 mvprintw(1, 90, "	            .c1vClSSC55llY7;;:,..      ,7Y1l2SCCC5Sll55l51S515T77;7C@.          ");
 mvprintw(2, 90, "           .;. ;;;::.     ,77lOZOUOGUY;7      .::::::::;::::::,:,  vhM;       ,;	");
 mvprintw(3, 90, "          :v .::,    ,YZd88#9UUOUFUXG9bMM@0U7    ,::;:::::::::;;;:.:ZM@D.       	");
@@ -1935,6 +1935,7 @@ void pressKey(int x,int y){
 void loadingAuto(int x, int y){
     loadingText(x,y);
     Sleep(100);
+    clearScreen();
     curs_set(1);
     echo();
 }

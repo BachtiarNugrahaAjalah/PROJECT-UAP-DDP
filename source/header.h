@@ -11,8 +11,7 @@ using namespace std;
 
 //-----------------Prototype-----------------//
 void stopmusic();
-void playmusic(const char * musicFile, DWORD flags = SND_ASYNC | SND_LOOP);
-void print_menu(WINDOW * menu_win, int pilihanTerpilih, const char * opsi[], int jumlahopsi);
+void print_menu();
 void choicesinfo();
 
 //-----------------Prototype Menu-----------------//
@@ -158,18 +157,26 @@ void singUp (){
     akun.close();
 }
 
+void welcomeGame(){
+    mvprintw(10,10,"SELAMAT DATANG DI GAME BERBURU RAJA IBLIS");
+    mvprintw(19,10,"tekan m untuk mulai permainan");
+    mvprintw(20,10,"tekan b untuk kembali ke menu utama");
+}
+
 void opsiPlay(){
     curs_set(0);
     noecho();
     cbreak();
-    introframe();
+    welcomeGame();
     mvprintw(22,10,"");
     char ch = getch();
     if(ch == 'm' || ch == 'M'){
         clearScreen();
-        loadingAuto(10,10);
-        printw("game akan dimulai");
-        getch();
+        loadingAuto(48,15);
+        clearScreen();
+        mvprintw(20, 48,"game akan dimulai");
+        pressKey(48,23);
+        clearScreen();
     }
     if(ch == 'b' || ch == 'B'){
         clearScreen();
@@ -183,7 +190,7 @@ void opsiPlay(){
 void choicesinfo() {
   clear();
   refresh();
-  if (specialtracker == 1) {
+  if (specialtracker == 0) {
     slashesframe();
     enemyhp -= defenseattre * -1 + (playerattack - enemydefense);
     defenseattre = 0;
@@ -192,7 +199,7 @@ void choicesinfo() {
       chat(20, 20, "Kau menyerang musuhmu dengan sabit dan kapak besi!", 10);
       break;
     }
-  } else if (specialtracker == 2) {
+  } else if (specialtracker == 1) {
     magicsframe();
     enemyhp -= defenseattre * -1 + (3 * playerattack - enemydefense);
     defenseattre = 0;
@@ -201,7 +208,7 @@ void choicesinfo() {
       chat(20, 20, "Kau menyerang musuhmu dengan sihir!", 10);
       break;
     }
-  } else if (specialtracker == 3) {
+  } else if (specialtracker == 2) {
     defenseattr = 2;
     switch (battlemodifierA) {
     case 'A':
