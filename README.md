@@ -33,7 +33,7 @@ Berikut merupakan langkah-langkah yang dapat Anda ikuti untuk memulai petualanga
 ## ABOUT US
 Kami terbuka untuk menerima saran dan kritik yang membangun untuk meningkatkan kualitas permainan ini. Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui:
 
-Surel : bachtiarnugraha@gmail.com
+Surel : bahtiarvivo123@gmail.com
 
 ## GRATITUDE
 Kami mengucapkan terima kasih sebesar-besarnya kepada:
